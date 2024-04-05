@@ -49,6 +49,10 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
+Developed by : SWATHI.S
+Register number : 212223040220
+```
+```
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
